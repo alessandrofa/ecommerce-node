@@ -1,0 +1,8 @@
+{
+  "ambientDependencies": {
+    "bcrypt-nodejs": "github:DefinitelyTyped/DefinitelyTyped/bcrypt-nodejs/bcrypt-nodejs.d.ts#d61a1c6578c9f0d2612a6a860ebe5f47fc716cc7",
+    "express": "github:DefinitelyTyped/DefinitelyTyped/express/express.d.ts#dd4626a4e23ce8d6d175e0fe8244a99771c8c3f2",
+    "morgan": "github:DefinitelyTyped/DefinitelyTyped/morgan/morgan.d.ts#4566a913a3667dc627851d0f7f38ffcd0e7cf6ea",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#1c56e368e17bb28ca57577250624ca5bd561aa81"
+  }
+}
